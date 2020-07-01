@@ -1,0 +1,6 @@
+/Users/fleur/Projects/NumGuess/NumGuess/bin/Debug/NumGuess.exe
+/Users/fleur/Projects/NumGuess/NumGuess/bin/Debug/NumGuess.pdb
+/Users/fleur/Projects/NumGuess/NumGuess/obj/Debug/NumGuess.csprojAssemblyReference.cache
+/Users/fleur/Projects/NumGuess/NumGuess/obj/Debug/NumGuess.csproj.CoreCompileInputs.cache
+/Users/fleur/Projects/NumGuess/NumGuess/obj/Debug/NumGuess.exe
+/Users/fleur/Projects/NumGuess/NumGuess/obj/Debug/NumGuess.pdb
